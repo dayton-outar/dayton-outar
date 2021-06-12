@@ -1,6 +1,8 @@
 ### Yow! Wah Gwaan?
 
-I'm a Jamaican that has been programming for quite some time now in my country.
+![Dread](./.attachments/wah-gwaan.png)
+
+I'm a Jamaican that has been programming for quite some time now in my country. :jamaica:
 
 Welcome to my GitHub profile. I seek to deliver useful tools in my repository. I hope what you find will inspire you and be of use to you.
 
