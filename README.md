@@ -1,10 +1,8 @@
 ![Dread: Wah Gwaan?](./.attachments/wah-gwaan.png)
 
-I'm a Jamaican that has been programming for quite some time now in my country. :jamaica:
-
-Welcome to my GitHub profile. I seek to deliver useful tools in my repository. I hope that you will be inspired by my work.
-
-I've worked on over 20 projects using several programming languages and frameworks, mostly web and multi-media applications.
+Welcome to my GitHub profile. :jamaica:
+I seek to deliver useful tools in my repository. 
+I hope that you will be inspired by my work.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayton-outar" alt="Top Languages Used" />
 
