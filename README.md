@@ -1,33 +1,8 @@
 ![Dread: Wah Gwaan?](./.attachments/wah-gwaan.png)
 
 Welcome to my GitHub profile. :jamaica:
-I seek to deliver useful tools in my repository. 
-I hope that you will be inspired by my work.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayton-outar" alt="Top Languages Used" />
-
-I'm very curious about computers and I like to build things.
-
-<!--
-**dayton-outar/dayton-outar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayton-outar-a4758143/)
-
-### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dayton-outar&show_icons=true" alt="My Activity" />
 
 ### Tech Stack
 
